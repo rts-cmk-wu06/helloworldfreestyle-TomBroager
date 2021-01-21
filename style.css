@@ -1,0 +1,38 @@
+/* Opsætning 1: */
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+}
+
+/* Opsætning 2: For at spare plads. Vælg den opstilling som i finder mest overskuelig */
+
+body { background-color: #0cade1; padding: 50px; box-sizing: border-box; }
+
+h1 { font-family: Arial, Helvetica, sans-serif; text-decoration: underline; text-decoration-color: red; color: #005da1; font-size: 4em; text-align: center; }
+
+h2 { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #005da1; font-size: 1.5em; text-align: center; }
+
+p { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #005da1; font-size: 1.5em; text-align: center; }
+/*
+a { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #005da1; font-size: 1.5em; text-align: center; }
+*/
+header { height: 300px; margin-bottom: 25px; background-color: #ffffff; border: solid 5px #005da1 }
+
+span {color: seagreen;}
+
+em { color: red; }
+
+nav { height: 75px; margin-bottom: 25px; background-color: #ffffff; border: solid 5px #005da1;}
+
+main { display: flex; flex-grow: 0.1; justify-content: space-between; margin-bottom: 25px;}
+
+article { width: 70%; background-color: #ffffff; border: solid 5px #005da1;}
+
+section { width: 25%; background-color: #ffffff; border: solid 5px #005da1;}
+
+footer { height: 150px; background-color: #ffffff; border: solid 5px #005da1;}
+
+/* Placering af Happy Hacking Logo*/
+img { display: block; margin: 0 auto; margin-top: 30px; margin-bottom: -40px; }
