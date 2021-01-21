@@ -15,9 +15,7 @@ h1 { font-family: Arial, Helvetica, sans-serif; text-decoration: underline; text
 h2 { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #005da1; font-size: 1.5em; text-align: center; }
 
 p { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #005da1; font-size: 1.5em; text-align: center; }
-/*
-a { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #005da1; font-size: 1.5em; text-align: center; }
-*/
+
 header { height: 300px; margin-bottom: 25px; background-color: #ffffff; border: solid 5px #005da1 }
 
 span {color: seagreen;}
@@ -32,7 +30,7 @@ article { width: 70%; background-color: #ffffff; border: solid 5px #005da1;}
 
 section { width: 25%; background-color: #ffffff; border: solid 5px #005da1;}
 
-footer { height: 150px; background-color: #ffffff; border: solid 5px #005da1;}
+footer { height: 200px; background-color: #ffffff; border: solid 5px #005da1;}
 
 /* Placering af Happy Hacking Logo*/
 img { display: block; margin: 0 auto; margin-top: 30px; margin-bottom: -40px; }
